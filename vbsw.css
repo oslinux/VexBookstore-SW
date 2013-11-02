@@ -1,0 +1,17 @@
+#vex-vbsw  {
+    border: 1px solid dimgray;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+#vex-vbsw input {
+    width: 50%;
+}
+
+#vex-vbsw div.login {
+    margin: 0 auto;
+    width: 50%;
+}
+#vex-vbsw div.login input {
+    width: 100%;
+}
